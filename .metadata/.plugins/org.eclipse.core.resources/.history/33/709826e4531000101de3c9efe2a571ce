@@ -1,0 +1,11 @@
+package com.vatsalya.sbeans;
+
+public class Flipkart implements Courier {
+
+	@Override
+	public String dilevery(int oid) {
+		
+		return "Your order is kept with flipkart for the dilevery";
+	}
+
+}

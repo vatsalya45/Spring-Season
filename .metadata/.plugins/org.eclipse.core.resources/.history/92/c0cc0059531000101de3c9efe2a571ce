@@ -1,0 +1,11 @@
+package com.vatsalya.sbeans;
+
+public class DTDC implements Courier {
+
+	@Override
+	public String dilevery(int oid) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

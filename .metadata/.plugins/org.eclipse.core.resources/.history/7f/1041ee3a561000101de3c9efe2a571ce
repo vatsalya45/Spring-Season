@@ -1,0 +1,11 @@
+package com.vatsalya.sbeans;
+
+public final class FlipKart {
+	
+	private Courier courier;
+	
+	public String shopping(String[] items, Double[] prices) {
+		
+		return null;
+	}
+}

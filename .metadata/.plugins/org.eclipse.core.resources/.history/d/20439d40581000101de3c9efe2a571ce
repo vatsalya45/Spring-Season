@@ -1,0 +1,22 @@
+package com.vatsalya.IOCProject4;
+
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+import com.vatsalya.sbeans.*;
+
+public class Tester 
+{
+    public static void main( String[] args )
+    {
+    	//Creating the IOC Container
+        AnnotationConfigApplicationContext ctx = new AnnotationConfigApplicationContext();
+        
+        //Get target spring bean class
+        FlipKart fk = ctx.getBean("fk",FlipKart.class);
+        
+        //Invoke the business method
+        String resultMsg = fk.shopping(new String[] {"Shirt","Pant"},new float[] { 800.0f, 1200.0f}); 
+        System.out.println(resultMsg);
+        ctx.close();
+    }
+}

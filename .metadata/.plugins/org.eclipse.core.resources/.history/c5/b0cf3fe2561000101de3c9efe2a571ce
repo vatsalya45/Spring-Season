@@ -1,0 +1,5 @@
+package com.vatsalya.cfgs;
+
+public class AppConfig {
+
+}
