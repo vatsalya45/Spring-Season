@@ -8,13 +8,20 @@
     <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
-    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
-    <fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
     <fullyQualifiedTypeName name="com.vatsalya.sbeans.FlipKart"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
     <fullyQualifiedTypeName name="com.vatsalya.cfgs.AppConfig"/>
     <fullyQualifiedTypeName name="java.text.DecimalFormat"/>
     <fullyQualifiedTypeName name="java.lang.Double"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ResourceBundleMessageSource"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="java.lang.annotation.Annotation"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
+    <fullyQualifiedTypeName name="java.awt.Label"/>
+    <fullyQualifiedTypeName name="org.springframework.cglib.core.Local"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
 </qualifiedTypeNameHistroy>
