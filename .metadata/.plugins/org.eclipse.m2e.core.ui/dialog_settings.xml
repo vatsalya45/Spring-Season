@@ -33,6 +33,7 @@
 			<item value="com.vatsalya"/>
 		</list>
 		<list key="artifactId">
+			<item value="IOCProjectt06-Scope-Singleton"/>
 			<item value="IOCProject05-Learning-Locale"/>
 			<item value="IOCProject4"/>
 		</list>

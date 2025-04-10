@@ -13,7 +13,7 @@ import org.springframework.context.annotation.Scope;
 public class AppConfig {
 
 	@Bean(name="dt")
-	@Scope("singleton")
+	@Scope("prototype")
 	public LocalDate createDate() {
 		
 		System.out.println("AppConfig.createDate()");
